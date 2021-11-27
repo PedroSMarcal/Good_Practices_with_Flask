@@ -1,0 +1,14 @@
+https://flask.palletsprojects.com/en/2.0.x/tutorial/factory/
+
+flaskr/, Pacote Python contendo todos os codigos e arquivos.
+
+tests/, diretorio para testes.
+
+venv/, Ambiente virtual com as dependencias;
+
+comando para salvar as dependencias
+pip freeze -r > requirements.txt 
+
+para instalar as dependencias
+pip install requirements.txt
+
